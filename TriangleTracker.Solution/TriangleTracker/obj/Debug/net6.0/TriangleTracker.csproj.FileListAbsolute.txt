@@ -1,0 +1,15 @@
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.csproj.AssemblyReference.cache
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.AssemblyInfoInputs.cache
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.AssemblyInfo.cs
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.deps.json
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.dll
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.pdb
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.dll
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/refint/TriangleTracker.dll
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.pdb
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/ref/TriangleTracker.dll
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/bin/Debug/net6.0/TriangleTracker.runtimeconfig.json
+/Users/robertonstott/Desktop/triangle-tracker/TriangleTracker.Solution/TriangleTracker/obj/Debug/net6.0/TriangleTracker.genruntimeconfig.cache
